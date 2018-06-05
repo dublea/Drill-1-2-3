@@ -1,0 +1,2 @@
+-- 3) Return a list of stations with a count of number of trips starting
+-- at that station but ordered by dock count.
